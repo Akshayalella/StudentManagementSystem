@@ -1,5 +1,5 @@
-StudentManagementSystem
-Student Management System Using Spring Boot
+**StudentManagementSystem**
+**Student Management System Using Spring Boot**
 The Student Management System is a web-based application developed using Spring Boot that streamlines the management of student records through a simple and user-friendly interface. The application follows the Model-View-Controller (MVC) architecture, ensuring a clean separation of concerns and making the system scalable and maintainable.
 
 The system enables administrators to perform essential CRUD (Create, Read, Update, Delete) operations on student data. Users can add new student records, view the complete list of students, edit existing information, and delete records when necessary. Each student record contains details such as First Name, Last Name, Email, Course, and Mobile Number.
